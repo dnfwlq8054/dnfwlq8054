@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 -->
 
 ![dnfwlq8054's github stats](https://github-readme-stats.vercel.app/api?username=dnfwlq8054&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnfwlq8054&layout=compact)](https://github.com/dnfwlq8054/github-readme-stats)
