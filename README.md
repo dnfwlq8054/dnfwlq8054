@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Hwan 👋
+
+I'm blog : https://hwan-shell.tistory.com/
+
+Look around and go!!
 
 <!--
 **dnfwlq8054/dnfwlq8054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
